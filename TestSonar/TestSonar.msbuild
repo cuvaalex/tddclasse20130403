@@ -1,0 +1,4 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Target Name="SimpleCase" 	/>
+  <Target Name="SimpleTest" AfterTargets="SimpleCase"/>
+</Project>
